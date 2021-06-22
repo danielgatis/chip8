@@ -47,6 +47,14 @@ The screen runs at the default resolution of 64x32.
 * **CHIP-8 Wikipedia Page:** https://en.wikipedia.org/wiki/CHIP-8
 * **Reddit r/EmuDev commmunity:** https://reddit.com/r/EmuDev
 
+
 ## License
 
-Code is provided under the MIT license; see LICENSE.md.
+Copyright (c) 2021-present [Daniel Gatis](https://github.com/danielgatis)
+
+Licensed under [MIT License](./LICENSE)
+
+## Buy me a coffee
+Liked some of my work? Buy me a coffee (or more likely a beer)
+
+<a href="https://www.buymeacoffee.com/danielgatis" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
